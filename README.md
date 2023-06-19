@@ -1,2 +1,2 @@
 # QtTutor
-An Qt tutorial example
+An Qt creator tutorial example
